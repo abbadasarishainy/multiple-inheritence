@@ -1,0 +1,2 @@
+# multiple-inheritence
+multiple  inheritance
